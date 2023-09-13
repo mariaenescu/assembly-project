@@ -74,8 +74,4 @@ Semnificatia argumentelor este:
 
 **Se garanteaza ca toate valorile raman in limitele tipurilor de date date in structura, adica `quo` si `remain` nu vor fi numere mai mari de 16 biti.**
 
-## **Observatie**
-
-Pentru exercitiul 2 se va folosi acelasi vector folosit si la exercitiul 1. Daca anumite valori se modifica in urma exercitiului 1, atunci exercitiul 2 nu va putea fi rezolvat corect. Exercitiile sunt independente totusi, puteti alege sa nu faceti primul exercitiu, dar veti primi doar jumatate din punctajul aferent acestui task.
-
 ---
