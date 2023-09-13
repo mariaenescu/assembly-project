@@ -78,7 +78,3 @@ rotorii mai putin primul);
 Exemplu 1 : key = "QWE", notches = "AAE" => key = "QXF"
 
 Exemplu 2 : key = "QWE", notches = "AWE" => key = "RXF"
-
-## Exemplu de encriptare al unui caracter:
-
-![example](images/enigma_example1.png)
