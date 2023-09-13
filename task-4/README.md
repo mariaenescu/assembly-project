@@ -22,7 +22,3 @@ Nu vor exista coliziuni intre piesele de joc. Presupunem ca pe tabla de joc se a
 
 Piesele nu pot sa iasa din suprafata de joc.
 
-
-# Exemplu:
-
-![example](matrix.png)
