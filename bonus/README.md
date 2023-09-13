@@ -10,7 +10,3 @@ O posibila optimizare este reprezentata de notiunea de "Bitboard". "Bitboard" re
 `y - linia pe care se afla piesa a carei pozitii vrem sa o calculam`
 
 `board - doua numere intregi ce reprezinta suprafata de joc. Primul numar reprezinta partea superioara a suprafetei, pe cand al doilea numar reprezinta partea inferioara.`
-
-Exemplu:
-
-![exemplu](bitboard.png)
